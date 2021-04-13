@@ -1,5 +1,14 @@
 <h1 align="center">Hello! I'm Anna Malinovskaia</h1>
-<h5 align="center">Sourcer :cat:| Novice Pyhon Developer</h5>
+<a href="url"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
+                                                  width="26%"/></a>
+                                                  
+<!-- Any image aligned to the right. Beware the width
+<img width="25%" align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg" />
+-->
+<a href="url"><img align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
+                                                  width="26%"/></a>   
+                                                  
+<h5 align="center">Sourcer :cat: | Novice Pyhon Developer</h5>
 
 <p align="center">
 <a align="center" href="https://www.linkedin.com/in/anmalinovskaja/"><img align="center" alt="LinkedIn"
@@ -9,6 +18,7 @@
 <a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Tweeting"
                                                                                    src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
 </p>
+
 
 <details align="center">
   <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
