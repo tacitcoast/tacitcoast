@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm Anna Malinovskaia</h1>
+<h5 align="center">Sourcer :cat:| Novice Pyhon Developer</h5>
 
-<!--
-**tacitcoast/tacitcoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a align="center" href="https://www.linkedin.com/in/anmalinovskaja/"><img align="center" alt="LinkedIn"
+                                                                                   src="https://img.shields.io/badge/-LinkedIn-222222?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmalinovskaja/"></a>
+<a align="center" href="https://GitHub.com/Naereen/StrapDown.js/stargazers/"><img align="center" alt="GitHub stars"
+                                                                                   src="https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000"></a>
+</p>
 
-Here are some ideas to get you started:
+<details align="center">
+  <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tacitcoast&theme=blue-green)](https://github.com/tacitcoast/github-readme-stats)
+<br><br>
+
+   </div>
+</details>
