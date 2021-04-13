@@ -8,7 +8,7 @@
 <a href="url"><img align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
                                                   width="25%"/></a>   
                                                   
-<h5 align="center">Sourcer :cat: | Novice Pyhon Developer</h5>
+<h4 align="center">Sourcer :cat: | Novice Pyhon Developer</h4>
 
 <p align="center">
 <a align="center" href="https://www.linkedin.com/in/anmalinovskaja/"><img align="center" alt="LinkedIn"
