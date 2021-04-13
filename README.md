@@ -6,6 +6,8 @@
                                                                                    src="https://img.shields.io/badge/-LinkedIn-222222?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmalinovskaja/"></a>
 <a align="center" href="https://GitHub.com/Naereen/StrapDown.js/stargazers/"><img align="center" alt="GitHub stars"
                                                                                    src="https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000"></a>
+<a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Tweeting"
+                                                                                   src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
 </p>
 
 <details align="center">
