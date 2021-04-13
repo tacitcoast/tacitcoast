@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Anna Malinovskaia</h1>
 <a href="url"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
-                                                  width="23%"/></a>
+                                                  width="25%"/></a>
                                                   
 <!-- Any image aligned to the right. Beware the width
 <img width="25%" align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg" />
