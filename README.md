@@ -3,10 +3,10 @@
                                                   width="23%"/></a>
                                                   
 <!-- Any image aligned to the right. Beware the width
-<img width="25%" align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg" />
+<img width="26%" align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg" />
 -->
 <a href="url"><img align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
-                                                  width="25%"/></a>   
+                                                  width="26%"/></a>   
                                                   
 <h5 align="center">Sourcer :cat: | Novice Pyhon Developer</h5>
 
