@@ -28,7 +28,7 @@
 -->
 
 
-<a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
+<a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
 - I'm a Talent Sourcer, my job is to research different sources <br>
