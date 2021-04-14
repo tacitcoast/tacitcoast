@@ -25,7 +25,10 @@
 
 <!-- Any image aligned to the right. Beware the width
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
---> 
+-->
+
+<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.pdf"
+                                                  width="25%"/></a>
 
 - I'm a Talent Sourcer, my job is to research different sources <br>
 and find people with whom we can collaborate. <br>
@@ -36,9 +39,6 @@ Perhaps our connection will be useful to us in the future.
 - And I'm also learning Python. <br>
 Feel free to contact me, email: tacitcoast@gmail.com <br>
 <a align="left">Telegram <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
-
-<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.png"
-                                                  width="25%"/></a>
 
 <details align="center">
   <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
