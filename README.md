@@ -17,11 +17,10 @@
                                                                          src="https://img.shields.io/badge/say-thanks-ff69b4.svg"></a>
 </p>
 
-
 ---
 
 <a href="https://vk.com/tacitcoast"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
-                                                  width="10%"/></a>
+                                                  width="25%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
