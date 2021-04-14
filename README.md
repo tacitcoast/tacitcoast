@@ -37,11 +37,12 @@ Perhaps our connection will be useful to us in the future.
 Feel free to contact me, email: tacitcoast@gmail.com <br>
 <a align="left">Telegram <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
+<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
+                                                  width="25%"/></a>
+
 <details align="center">
   <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
 
-<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
-                                                  width="25%"/></a>
 
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitcoast&theme=blue-green"></a>
