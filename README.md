@@ -20,7 +20,7 @@
 
 ---
 
-<a href="https://vk.com/tacitcoast"><img left="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
+<a href="https://vk.com/tacitcoast"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
                                                   width="25%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
@@ -39,6 +39,9 @@ Feel free to contact me, email: tacitcoast@gmail.com <br>
 
 <details align="center">
   <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
+
+<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
+                                                  width="25%"/></a>
 
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitcoast&theme=blue-green"></a>
