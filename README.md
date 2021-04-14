@@ -37,7 +37,7 @@ Perhaps our connection will be useful to us in the future.
 Feel free to contact me, email: tacitcoast@gmail.com <br>
 <a align="left">Telegram <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
-<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
+<a href="https://vk.com/tacitcoast"><img align="rite" alt="Github" src="https://octodex.github.com/images/collabocats.png"
                                                   width="25%"/></a>
 
 <details align="center">
