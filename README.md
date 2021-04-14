@@ -20,12 +20,12 @@
 
 ---
 
+<a href="https://vk.com/tacitcoast"><img left="right" alt="Github" src="https://octodex.github.com/images/pythocat.png"
+                                                  width="35%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
 --> 
-<a href="https://vk.com/tacitcoast"><img right="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
-                                                  width="35%"/></a>
 
 - I'm a Talent Sourcer, my job is to research different sources <br>
 and find people with whom we can collaborate. <br>
