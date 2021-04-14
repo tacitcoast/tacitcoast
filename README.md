@@ -3,7 +3,7 @@
 
 
 <!--
-  <img src="https://octodex.github.com/images/pythocat.png" width="25px">
+  <img src="https://octodex.github.com/images/pythocat.png" width="100px">
  -->
  
 <p align="center">
