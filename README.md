@@ -3,12 +3,12 @@
 
 
 <!--
-  <img src="https://octodex.github.com/images/pythocat.png" width="100px">
+  <img src="https://octodex.github.com/images/pythocat.png" width="25px">
  -->
  
 <p align="center">
     <a align="center" href="https://visitor-badge.laobi.icu/badge?page_id=tacitcoast"><img align="center" alt="Open Source Love"
-                                                                     src="https://badges.frapsoft.com/os/v1/open-source.svg?v=50"></a>
+                                                                     src="https://badges.frapsoft.com/os/v1/open-source.svg?v=0"></a>
     <a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Twitter"
                                                                                    src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"width="7%"/></a>
     <a align="center" href="https://GitHub.com/Naereen/StrapDown.js/watchers/"><img align="center" alt="GitHub watchers"
@@ -44,10 +44,9 @@ Feel free to contact me, email: tacitcoast@gmail.com <br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitcoast&theme=blue-green"></a>
 
 
+### Languages and Tools:  
+
 
 
    </div>
 </details>
-
-
-
