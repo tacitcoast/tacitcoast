@@ -2,9 +2,7 @@
 <h4 align="center">Sourcer :cat: | Novice Pyhon Developer</h4>
 
 
-<!--
-  <img src="https://octodex.github.com/images/pythocat.png" width="25px">
- -->
+
  
 <p align="center">
     <a align="center" href="https://visitor-badge.laobi.icu/badge?page_id=tacitcoast"><img align="center" alt="Open Source Love"
