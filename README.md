@@ -33,8 +33,7 @@
 
 - I'm a Talent Sourcer, my job is to research different sources <br>
 and find people with whom we can collaborate. <br>
-I'm not trying to "hunt" you or sell you anything, we're all human, <br>
-so let's just get to know each other better. <br>
+I'm not trying to "hunt" you or sell you anything, we're all human, so let's just get to know each other better. <br>
 Perhaps our connection will be useful to us in the future.
 
 - And I'm also learning Python. <br>
