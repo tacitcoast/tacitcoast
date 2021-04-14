@@ -2,7 +2,9 @@
 <h4 align="center">Sourcer :cat: | Novice Pyhon Developer</h4>
 
 
-
+<!--
+  <img src="https://octodex.github.com/images/pythocat.png" width="25px">
+ -->
  
 <p align="center">
     <a align="center" href="https://visitor-badge.laobi.icu/badge?page_id=tacitcoast"><img align="center" alt="Open Source Love"
@@ -18,8 +20,6 @@
 
 ---
 
-<a href="https://vk.com/tacitcoast"><img left="right" alt="Github" src="https://octodex.github.com/images/pythocat.png"
-                                                  width="35%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
