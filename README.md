@@ -50,10 +50,9 @@ Feel free to contact me, email: tacitcoast@gmail.com <br>
   <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
 
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitcoast&theme=blue-green"></a>
-
-
-
+    <a href="https://github.com/tacitcoast/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitcoast&theme=blue-green"></a>
+  
+  
 
    </div>
 </details>
