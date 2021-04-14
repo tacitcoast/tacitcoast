@@ -20,6 +20,8 @@
 
 ---
 
+<a href="https://vk.com/tacitcoast"><img left="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
+                                                  width="25%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
