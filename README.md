@@ -3,7 +3,7 @@
 
 
 <!--
-  <img src="https://octodex.github.com/images/pythocat.png" width="50px">
+  <img src="https://octodex.github.com/images/pythocat.png" width="25px">
  -->
  
 <p align="center">
@@ -27,8 +27,10 @@
 <a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
                                                   width="25%"/></a>
 
-- I'm a Talent Sourcer, my job is to research different sources and find people with whom we can collaborate. <br>
-I'm not trying to "hunt" you or sell you anything, we're all human , so let's just get to know each other better. <br>
+- I'm a Talent Sourcer, my job is to research different sources <br>
+and find people with whom we can collaborate. <br>
+I'm not trying to "hunt" you or sell you anything, we're all human, <br>
+so let's just get to know each other better. <br>
 Perhaps our connection will be useful to us in the future.
 
 - And I'm also learning Python. <br>
