@@ -12,7 +12,7 @@
     <a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Twitter"
                                                                                    src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"width="7%"></a>
     <a align="center" href="https://GitHub.com/Naereen/StrapDown.js/watchers/"><img align="center" alt="GitHub watchers"
-                                                                                   src="https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000"width="9%"></a>
+                                                                                   src="https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000"width="10%"></a>
     <a align="center" href="https://saythanks.io/to/kennethreitz"><img align="center" alt="saythanks"
                                                                          src="https://img.shields.io/badge/say-thanks-ff69b4.svg"></a>
 </p>
