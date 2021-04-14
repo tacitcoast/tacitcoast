@@ -3,7 +3,7 @@
 
 
 <!--
-  <img src="https://octodex.github.com/images/pythocat.png" width="25px">
+  <img src="https://octodex.github.com/images/pythocat.png" width="50px">
  -->
  
 <p align="center">
@@ -22,12 +22,14 @@
 
 
 <!-- Any image aligned to the right. Beware the width
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
 --> 
 <a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/collabocats.jpg"
-                                                  width="30%"/></a>
+                                                  width="25%"/></a>
 
-- I'm a Talent Sourcer, my job is to research different sources and find people with whom we can collaborate. I'm not trying to "hunt" you or sell you anything, we're all human , so let's just get to know each other better. Perhaps our connection will be useful to us in the future.
+- I'm a Talent Sourcer, my job is to research different sources and find people with whom we can collaborate. <br>
+I'm not trying to "hunt" you or sell you anything, we're all human , so let's just get to know each other better. <br>
+Perhaps our connection will be useful to us in the future.
 
 - And I'm also learning Python. <br>
 Feel free to contact me, email: tacitcoast@gmail.com <br>
@@ -46,5 +48,4 @@ Feel free to contact me, email: tacitcoast@gmail.com <br>
 </details>
 
 
----
 
