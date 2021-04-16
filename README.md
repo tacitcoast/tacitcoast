@@ -1,7 +1,6 @@
 <h1 align="center">Hello! I'm Anna Malinovskaia</h1>
 <h4 align="center">Sourcer :cat: | Novice Pyhon Developer</h4>
 
-
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
  -->
@@ -50,8 +49,7 @@ Feel free to contact me, email: tacitcoast@gmail.com <br>
   <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
 
   <div>
-    <a href="https://github.com/tacitcoast/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacitcoast&theme=blue-green"></a>
-  
+    <a href="https://github.com/tacitcoast/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tacitcoast&show_icons=true&theme=radical"></a>
   
 
    </div>
