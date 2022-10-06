@@ -35,7 +35,7 @@ and find people with whom we can collaborate. <br>
 I'm not trying to "hunt" you or sell you anything, we're all human, so let's just get to know each other better. <br>
 Perhaps our connection will be useful to us in the future.
 
-- And I'm also learning Python. <br>
+- And I'm also learning Python and Testing. <br>
 Feel free to contact me, email: tacitcoast@gmail.com <br>
 <a align="left">Telegram <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
