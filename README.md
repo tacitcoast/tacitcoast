@@ -35,7 +35,7 @@ and find people with whom we can collaborate. <br>
 I'm not trying to "hunt" you or sell you anything, we're all human, so let's just get to know each other better. <br>
 Perhaps our connection will be useful to us in the future.
 
-- <a align="left">My CV <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a>
+- <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a>
 
 - And I'm also learning Python and Testing. <br>
 Feel free to contact me, email: tacitcoast@gmail.com <br>
