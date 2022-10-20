@@ -32,8 +32,7 @@
 
 - I'm a Talent Sourcer, my job is to research different sources <br>
 and find people with whom we can collaborate. <br>
-I like to train others and create something new, so if you have any ideas for a new project <br>
-that I could help with in my free time, please write to me 🙂
+I like to train others and create something new, so if you have any ideas for a new project that I could help with in my free time, please write to me 🙂
 
 - <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a>
 
