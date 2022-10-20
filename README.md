@@ -36,8 +36,7 @@ I like to train others and create something new, so if you have any ideas for a 
 
 - <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a>
 
-- And I'm also learning Python and Testing. <br>
-Feel free to contact me, email: tacitcoast@gmail.com <br>
+- Feel free to contact me, email: tacitcoast@gmail.com <br>
 <a align="left">Telegram <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
 
