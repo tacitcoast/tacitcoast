@@ -30,15 +30,17 @@
 <a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
-- I'm a Talent Sourcer, my job is to research different sources <br>
+- I'm a Talent Sourcer, Professional Google searcher and QA. <br>
+Now my job is to research different sources
 and find people with whom we can collaborate. <br>
-I'm not trying to "hunt" you or sell you anything, we're all human, so let's just get to know each other better. <br>
-Perhaps our connection will be useful to us in the future.
+I believe that programming is already part of every job, so I also use Python in my work and I'm learning Testing. <br>
+We have developed a bot for recruiters - <a align="left">littlehrthings_bot<a href="https://t.me/littlehrthings_bot">JSON Resume</a>
 
-- <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a>
+- I like to train others and create something new <br>
+so if you have any ideas for a new project that I could help with in my free time, please write to me 🙂
+<a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a>
 
-- And I'm also learning Python and Testing. <br>
-Feel free to contact me, email: tacitcoast@gmail.com <br>
+- Feel free to contact me, email: tacitcoast@gmail.com <br>
 <a align="left">Telegram <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
 
