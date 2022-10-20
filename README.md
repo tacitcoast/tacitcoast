@@ -10,10 +10,11 @@
                                                                      src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
      <a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Twitter"
                                                                                    src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"width="7%"></a>
-    <a align="center" href="https://github.com/tacitcoast/Ozon-new-skills/watchers"><img align="center" alt="GitHub watchers"
+    <a align="center" href="https://github.com/tacitcoast"><img align="center" alt="GitHub watchers"
                                                                                    src="https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000"width="10%"></a>
     <a align="center" href="https://www.tinkoff.ru/sl/QCXNqs9FA"><img align="center" alt="saythanks"
                                                                          src="https://img.shields.io/badge/say-thanks-ff69b4.svg"></a>
+                                                                        
 </p>
 
 
