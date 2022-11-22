@@ -35,7 +35,7 @@
 I believe that programming is already part of every job, so I also use Python in my work and I'm learning Testing. <br>
 <a align="left">We have developed a bot for recruiters <a href="https://t.me/littlehrthings_bot">littlehrthings_bot</a> <br>
 
-- I like to train others and create something new, so if you have any ideas for a new project that I could help with in my free time, please write to me <br>
+- I like to teach others and create something new, so if you have any ideas and projects that I could help with, write to me <br>
 
 - <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a> <br>
 My email: tacitcoast@gmail.com <br>
