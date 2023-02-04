@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Anna Malinovskaia</h1>
-<h4 align="center">QA Engineer 🪲 | Sourcer :cat:</h4>
+<h4 align="center">🪲 QA Engineer | :cat: Sourcer</h4>
 
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
@@ -31,7 +31,7 @@
 <a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
-- I'm a Talent Sourcer, Professional Google searcher and QA. <br>
+- I'm a QA Engineer and Professional Google searcher. <br>
 I believe that programming is already part of every job, so I also use Python in my work and I'm learning Testing. <br>
 <a align="left">We have developed a bot for recruiters <a href="https://t.me/littlehrthings_bot">littlehrthings_bot</a> <br>
 
