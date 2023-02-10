@@ -28,7 +28,7 @@
 -->
 
 
-<a href="https://www.linkedin.com/in/anmalinovskaia/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
+<a href="https://tacitcoast.github.io/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
 - I'm a **QA Engineer** and Professional Google searcher. <br>
