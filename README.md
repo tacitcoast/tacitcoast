@@ -38,7 +38,6 @@ My job is to investigate various services and features and identify errors in th
 
 - <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a> <br>
   My <a href="https://miro.com/app/board/uXjVPBkh9Mw=/?share_link_id=47505486290">Checklists Portfolio</a> <br>
-  My email: tacitcoast@gmail.com <br>
   <a align="left">Telegram: <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
 
