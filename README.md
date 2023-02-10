@@ -20,7 +20,7 @@
 
 ---
 
-<a href="https://vk.com/tacitcoast"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
+<a href="https://www.linkedin.com/in/anmalinovskaia/"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
                                                   width="25%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
@@ -28,7 +28,7 @@
 -->
 
 
-<a href="https://vk.com/tacitcoast"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
+<a href="https://www.linkedin.com/in/anmalinovskaia/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
 - I'm a **QA Engineer** and Professional Google searcher. <br>
