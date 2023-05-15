@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Anna Malinovskaia</h1>
-<h4 align="center">🪲 QA Engineer | :cat: Sourcer</h4>
+<h4 align="center">🪲 QA Engineer | 🤝 People managment | 🎤 Speaker</h4>
 
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
