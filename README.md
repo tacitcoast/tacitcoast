@@ -36,7 +36,7 @@ My job is to investigate various services and features and identify errors in th
 
 - I like to teach others, be a Mentor and create something new, so if you have tasks or a product that I could help you with, please write me ✏️ <br>
 
-- <a align="left">My <a href="https://registry.jsonresume.org/tacitcoast">JSON Resume</a> <br>
+- <a align="left">My <a href="https://tacitcoast.github.io/">WebSite</a> <br>
   My <a href="https://miro.com/app/board/uXjVPBkh9Mw=/?share_link_id=47505486290">Checklists Portfolio</a> <br>
   <a align="left">Telegram: <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
 
