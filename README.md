@@ -38,7 +38,7 @@ My job is to investigate various services and features and identify errors in th
 
 - <a align="left">My <a href="https://tacitcoast.github.io/">WebSite</a> <br>
   My <a href="https://miro.com/app/board/uXjVPBkh9Mw=/?share_link_id=47505486290">Checklists Portfolio</a> <br>
-  <a align="left">Telegram: <a href="https://t.me/anmalinovskaia">@anmalinovskaia</a>
+  <a align="left">Telegram: <a href="https://t.me/tacitcoast">@tacitcoast</a>
 
 
 <!-- Any image aligned to the left. Beware the width
