@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Anna Malinovskaia</h1>
-<h4 align="center">🪲 Fullstack QA Engineer | 🤝 People managment | 🎤 Speaker</h4>
+<h4 align="center">🪲 Full Stack QA Engineer | 🤝 People managment | 🎤 Speaker</h4>
 
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
@@ -31,13 +31,12 @@
 <a href="https://tacitcoast.github.io/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
-- I'm a **QA Engineer** and Professional Google searcher. <br>
+- I'm a **Full Stack QA Engineer**. <br>
 My job is to investigate various services and features and identify errors in their work as early as possible. <br>
 
 - I like to teach others, be a Mentor and create something new, so if you have tasks or a product that I could help you with, please write me ✏️ <br>
 
 - <a align="left">My <a href="https://tacitcoast.github.io/">WebSite</a> <br>
-  My <a href="https://miro.com/app/board/uXjVPBkh9Mw=/?share_link_id=47505486290">Checklists Portfolio</a> <br>
   <a align="left">Telegram: <a href="https://t.me/tacitcoast">@tacitcoast</a>
 
 
