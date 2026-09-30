@@ -1,20 +1,13 @@
-<h1 align="center">Hello! I'm Anna Malinovskaia</h1>
-<h4 align="center">🪲 Full Stack QA Engineer | 🤝 People managment | 🎤 Speaker</h4>
+треть<h1 align="center">Hello! I'm Anna Malinovskaia</h1>
+<h4 align="center">AI/ML QA Engineer · Mentor · Speaker</h4>
 
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
  -->
  
 <p align="center">
-    <a align="center" href="https://github.com/ellerbrock/open-source-badges/"><img align="center" alt="Open Source Love"
-                                                                     src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-     <a align="center" href="https://twitter.com/tacitcoast"><img align="center" alt="Twitter"
-                                                                                   src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"width="7%"></a>
-    <a align="center" href="https://github.com/tacitcoast/Ozon-new-skills/watchers"><img align="center" alt="GitHub watchers"
-                                                                                   src="https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000"width="10%"></a>
-    <a align="center" href="https://www.tinkoff.ru/sl/QCXNqs9FA"><img align="center" alt="saythanks"
-                                                                         src="https://img.shields.io/badge/say-thanks-ff69b4.svg"></a>
-                                                                        
+    <a href="https://www.linkedin.com/in/anmalinovskaia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anmalinovskaia-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tacitcoast&style=flat&color=0A66C2&label=Profile+views">
 </p>
 
 
@@ -31,13 +24,11 @@
 <a href="https://tacitcoast.github.io/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
                                                   width="25%"/></a>
 
-- I'm a **Full Stack QA Engineer**. <br>
-My job is to investigate various services and features and identify errors in their work as early as possible. <br>
-
-- I like to teach others, be a Mentor and create something new, so if you have tasks or a product that I could help you with, please write me ✏️ <br>
-
-- <a align="left">My <a href="https://tacitcoast.github.io/">WebSite</a> <br>
-  <a align="left">Telegram: <a href="https://t.me/tacitcoast">@tacitcoast</a>
+- I'm a **Full Stack QA Engineer working with AI & ML**. <br>
+I test services and features, including LLM-based products, and catch errors as early as possible.
+- I enjoy mentoring and building new things. If you have a product or a task I could help with, feel free to message me.
+- Website: <a href="https://tacitcoast.github.io/">tacitcoast.github.io</a>
+- Telegram: <a href="https://t.me/tacitcoast">@tacitcoast</a>
 
 
 <!-- Any image aligned to the left. Beware the width
@@ -45,12 +36,3 @@ My job is to investigate various services and features and identify errors in th
 -->
 
 
-<details align="center">
-  <summary> <b> Some statistics </b> <i>(click to expand)</i> </summary>
-
-  <div>
-    <a href="https://github.com/tacitcoast/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tacitcoast&show_icons=true&theme=radical"></a>
-  
-
-   </div>
-</details>
