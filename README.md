@@ -1,4 +1,4 @@
-<h4 align="center">AI/ML QA Engineer · Mentor · Speaker</h4>
+<h3 align="center">AI/ML QA Engineer · Mentor · Speaker</h3>
 
 <!--
   <img src="https://octodex.github.com/images/pythocat.png" width="25px">
@@ -13,7 +13,7 @@
 ---
 
 <a href="https://www.linkedin.com/in/anmalinovskaia/"><img align="left" alt="Github" src="https://octodex.github.com/images/pythocat.png"
-                                                  width="25%"/></a>
+                                                  width="20%"/></a>
 
 <!-- Any image aligned to the right. Beware the width
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
@@ -21,7 +21,7 @@
 
 
 <a href="https://tacitcoast.github.io/"><img align="right" alt="Github" src="https://octodex.github.com/images/inspectocat.jpg"
-                                                  width="25%"/></a>
+                                                  width="20%"/></a>
 
 - I'm a **Full Stack QA Engineer working with AI & ML**. <br>
 I test services and features, including LLM-based products, and catch errors as early as possible.
