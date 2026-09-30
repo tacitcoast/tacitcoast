@@ -1,4 +1,3 @@
-треть<h1 align="center">Hello! I'm Anna Malinovskaia</h1>
 <h4 align="center">AI/ML QA Engineer · Mentor · Speaker</h4>
 
 <!--
